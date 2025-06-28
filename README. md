@@ -1,0 +1,27 @@
+✅ Features
+
+📌 Task Management: Add, mark complete, and delete tasks effortlessly.
+
+📅 Date & Time Picker: Select specific dates and times using an interactive calendar.
+
+🔵 Dynamic UI Effects: Clicking the calendar icon highlights the placeholder in blue and opens a custom datetime picker.
+
+🎨 Modern UI: Features a sleek, dark purple-blue gradient background with a glassmorphism card effect.
+
+🌗 Toggle Theme: Seamlessly switch between light and dark modes.
+
+📤 Export Tasks: Export your to-do list in one click.
+
+📱 Responsive Design: Optimized for both mobile and desktop devices.
+
+
+
+---
+
+💻 Tech Stack
+
+HTML5 – Structure and layout
+
+CSS3 – Styling with gradients, glass effects, and animations
+
+JavaScript (Vanilla) – Core functionality and user interaction
